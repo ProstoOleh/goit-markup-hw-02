@@ -10,7 +10,7 @@
 body {
     font-family: Roboto , sans-serif;
     color: var(--first-text-color);
-    color: var(--second-text-color);
+    color: #434455;
     background: var(--background-main-color);
 }
 
