@@ -83,7 +83,7 @@ font-style: normal;
     color: #404BBF;
 }
 
-/* Main */
+/* Main (Home page) */
 
 .hero {
     background: var(--background-second-color);
@@ -220,6 +220,7 @@ background-color: #F4F4FD;
 /*----- Portfolio Page -----*/
 
 
+/* Buttons filters */
 .portfolio-button {
     font-family: 'Roboto', sans-serif;
         font-weight: 500;
@@ -235,6 +236,8 @@ background-color: #F4F4FD;
     color: #FFFFFF;
     background-color: #404BBF;
 }
+
+/* Examples of projects */
 
 .portfolio-projects-subtitle {
     font-weight: 500;
