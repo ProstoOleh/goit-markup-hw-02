@@ -9,7 +9,8 @@
     --logo-first-color: #4D5AE5;
     --logo-second-color: #2E2F42;
     --logo-third-color: #F4F4FD;
-    --bttn-backgroud-color: #404BBF;
+    --bttn-background-color: #404BBF;
+    --bttn-background-second-color: #F4F4FD;
     --bttn-first-color: #4D5AE5;
     --bttn-second-color: #FFFFFF;
 }
@@ -215,15 +216,15 @@ background-color: #F4F4FD;
 /*----- Portfolio Page -----*/
 
 
-.portfolio-button-all {
+.portfolio-button {
     font-family: 'Roboto', sans-serif;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.50;
         letter-spacing: 0.04em;
         cursor: pointer;
-        color: var(--bttn-second-color);
-        background: var(--bttn-backgroud-color);
+        color: var(--bttn-first-color);
+        background: var(--bttn-background-second-color);
 }
 
 .portfolio-button {
