@@ -9,9 +9,9 @@
 
 body {
     font-family: Roboto , sans-serif;
-    color: var(--first-text-color);
+    color: #2E2F42;
     color: #434455;
-    background: var(--background-main-color);
+    background: #FFFFFF;
 }
 
 a {
