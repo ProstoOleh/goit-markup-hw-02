@@ -115,6 +115,7 @@ font-style: normal;
         font-size: 20px;
         line-height: 1.20;
         letter-spacing: 0.02em;
+        text-align: center;
         color: var(--first-text-color);
 }
 
@@ -137,11 +138,11 @@ font-style: normal;
 }
 
 .team {
-background-color: var(--background-third-color);
+background-color: #F4F4FD;
 }
 
 .team-list {
-    background-color: var(--background-main-color);
+    background-color: #FFFFFF;
 }
 
 .team-title {
