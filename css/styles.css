@@ -11,7 +11,7 @@
 }
 
 body {
-    font-family: Roboto , sans-serif;
+    font-family: 'Roboto', sans-serif;
     color: #2E2F42;
     color: #434455;
     background: #FFFFFF;
@@ -29,7 +29,7 @@ list-style-type: none;
 /* Header (Home page , Portfolio) */
 
 .header-logo {
-    font-family: 'Raleway' , sans-serif;
+    font-family: 'Raleway', sans-serif;
         font-style: normal;
         font-weight: 800;
         font-size: 18px;
@@ -40,6 +40,13 @@ list-style-type: none;
 }
 
 .header-logo span {
+    font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
         color: var(--logo-second-color)
 }
 
@@ -75,18 +82,20 @@ list-style-type: none;
 .hero-title {
         font-weight: 700;
         font-size: 56px;
+        text-align: center;
         line-height: 1.07;
         letter-spacing: 0.02em;
         color: var(--third-text-color);
 }
 
 .hero-button {
-    font-family: 'Roboto';
+    font-family: 'Roboto', sans-serif;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.50;
         letter-spacing: 0.04em;
+        cursor: pointer;
         color: var(--third-text-color);
         background: #4D5AE5;
 }
@@ -163,6 +172,13 @@ list-style-type: none;
 }
 
 .footer-logo span {
+    font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
         color: var(--logo-third-color)
 }
 
